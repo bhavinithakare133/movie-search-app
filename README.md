@@ -23,7 +23,7 @@ A responsive, dark-themed movie search application built with vanilla JavaScript
 ## 📦 How to Run
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/movie-search-app.git
+git clone https://github.com/bhavinithakare133/movie-search-app.git
 
 # Open in browser
 open index.html
@@ -43,4 +43,4 @@ movie-search-app/
 ## 👩‍💻 Author
 **Bhavini Thakare** – Senior React / Frontend Developer
 - LinkedIn: [linkedin.com/in/bhavini-thakare133](https://linkedin.com/in/bhavini-thakare133)
-- Email: bhavinithakare133@gmail.com
+
